@@ -2,18 +2,21 @@
 <img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
 
 
-Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
-Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).
+<p>Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
+Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
 
-<a href="https://www.linkedin.com/in/vkuberan/">
-  <img align="left" alt="Velmurugan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/vkuberan">
-  <img align="left" alt="Velmurugan's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://dev.to/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://twitter.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://codesandbox.com/velmurugan kuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="velmurugan kuberan" height="30" width="40" /></a>
+<a href="https://fb.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://medium.com/@vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vkuberan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vkuberan" height="30" width="40" /></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </p>
@@ -36,18 +39,7 @@ Depending on the client’s needs, I usually play several different roles. I can
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://dev.to/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://twitter.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/velmurugan kuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="velmurugan kuberan" height="30" width="40" /></a>
-<a href="https://fb.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vkuberan" height="30" width="40" /></a>
-<a href="https://medium.com/@vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vkuberan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vkuberan" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
