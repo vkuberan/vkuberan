@@ -1,51 +1,42 @@
-## Developer Portfolio Landing Page Template
+<h1 align="center">Hi 👋, I'm Vel</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-### Introduction
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </p>
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkuberan" alt="vkuberan" /></a> </p>
 
-<img src="images/demo.gif?raw=true"/>
+<p align="left"> <a href="https://twitter.com/vkuberan" target="blank"><img src="https://img.shields.io/twitter/follow/vkuberan?logo=twitter&style=for-the-badge" alt="vkuberan" /></a> </p>
 
-### Installation
+- 🔭 I’m currently working on [django](https://django.com)
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- 📝 I regulary write articles on [dev.to](dev.to)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- 💬 Ask me about **django, laravel & react**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 📫 How to reach me **vkuberan@gmail.com**
 
-### Markdown
+- 📄 Know about my experiences [vkuberan](vkuberan)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-```markdown
-Syntax highlighted code block
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://dev.to/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://twitter.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://codesandbox.com/velmurugan kuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="velmurugan kuberan" height="30" width="40" /></a>
+<a href="https://fb.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vkuberan" height="30" width="40" /></a>
+<a href="https://medium.com/@vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vkuberan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vkuberan" height="30" width="40" /></a>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- Bulleted
-- List
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkuberan&show_icons=true&locale=en&layout=compact" alt="vkuberan" /></p>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkuberan&show_icons=true&locale=en" alt="vkuberan" /></p>
