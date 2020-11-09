@@ -48,20 +48,21 @@ Depending on the client’s needs, I usually play several different roles. I can
 
 <p>
 	<a href="https://woocommerce.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/woocommerce.svg" alt="django" width="40" height="40"/></a> 	
-	<a href="https://www.drupal.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/drupal.svg" alt="django" width="40" height="40"/></a> 		
 </p>
 
+<h3 align="left">Database:</h3>
+
+<p>
+	<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+	<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+</p>
+
+<h3 align="left">Tools:</h3>
+
+<p>
 	<a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-
-
-
-	
-
-
 	<a href="https://www.linux.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 	<a href="https://www.mysql.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-
-
 </p>
 
 
