@@ -1,6 +1,6 @@
-<h1>Hi, I'm Vel 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </p></h1>
-<img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
+<h1>Hi, I'm Vel 👋 <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </h1>
 
+<img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
 
 <p>Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
 Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
