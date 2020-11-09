@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Velmurugan</h1>
+<h1>Hi 👋,</h1>
 <img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
 
 
