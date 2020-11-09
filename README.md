@@ -1,5 +1,7 @@
-<h1>Hi 👋, I'm Vel</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1>Hi 👋, I'm Velmurugan</h1>
+<img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </p>
 
