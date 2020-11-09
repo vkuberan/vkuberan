@@ -5,6 +5,17 @@
 Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
 Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).
 
+<a href="https://www.linkedin.com/in/vkuberan/">
+  <img align="left" alt="Velmurugan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/vkuberan">
+  <img align="left" alt="Velmurugan's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/ZamranxD">
+  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkuberan&label=Profile%20views&color=0e75b6&style=flat" alt="vkuberan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkuberan" alt="vkuberan" /></a> </p>
