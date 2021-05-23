@@ -5,6 +5,13 @@
 <p>Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
 Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
 
+<p>
+- 💬 Ask me about **django, WordPress, laravel, VueJs & react**
+
+- 📫 How to reach me **vkuberan@gmail.com**
+	
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vkuberan" height="30" width="40" /></a>
@@ -64,8 +71,3 @@ Depending on the client’s needs, I usually play several different roles. I can
 	<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a> 
     <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a> 
 </p>
-
-- 💬 Ask me about **django, WordPress, laravel, VueJs & react**
-
-- 📫 How to reach me **vkuberan@gmail.com**
-
