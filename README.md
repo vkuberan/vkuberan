@@ -31,11 +31,11 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">Frameworks:</h3>
 
 <p align="left">
-	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-%3E%3D5.8-brightgreen?style=plastic"/></a> 
-	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-%3E%3D3.0-brightgreen?style=plastic" /></a> 
-	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK%20-2.0.1-brightgreen"/></a> 
-	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VUE-%3E%3D2.0-brightgreen?style=plastic"/></a> 		
-	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/REACT-%3E%3D16.0.0-brightgreen?style=plastic"/></a> 		
+	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a> 
+	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" /></a> 
+	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/></a> 
+	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white"/></a> 		
+	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a> 		
 </p>	
 
 <h3 align="left">CMS:</h3>
@@ -48,7 +48,7 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">eCommerce:</h3>
 
 <p>	
-    <a href="https://woocommerce.com/" target="_blank"> <img src="https://img.shields.io/badge/WooCommerce-%3E%3D3.0-brightgreen?style=plastic" /></a> 	
+    <a href="https://woocommerce.com/" target="_blank"> <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" /></a> 	
 </p>
 
 <h3 align="left">Database:</h3>
