@@ -29,18 +29,18 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">Frameworks:</h3>
 
 <p align="left">
-	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-%3E%3D5.8-blue?style=plastic"/></a> 
-	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-%3E%3D3.0-blue?style=plastic" /></a> 
-	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK%20-2.0.1-blue"/></a> 
-	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VUE-%3E%3D2.0-blue?style=plastic"/></a> 		
-	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/REACT-%3E%3D16.0.0-blue?style=plastic"/></a> 		
+	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-%3E%3D5.8-brightgreen?style=plastic"/></a> 
+	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-%3E%3D3.0-brightgreen?style=plastic" /></a> 
+	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK%20-2.0.1-brightgreen"/></a> 
+	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VUE-%3E%3D2.0-brightgreen?style=plastic"/></a> 		
+	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/REACT-%3E%3D16.0.0-brightgreen?style=plastic"/></a> 		
 </p>	
 
 <h3 align="left">CMS:</h3>
 
 <p>
-	<a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/wordpress.svg" alt="django" width="40" height="40"/></a> 	
-	<a href="https://www.drupal.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/drupal.svg" alt="django" width="40" height="40"/></a> 		
+    <a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://img.shields.io/badge/WordPress-%3E%3D5.0-yellow?style=plastic" /></a> 	
+    <a href="https://www.drupal.org/" target="_blank"> <img src="https://img.shields.io/badge/Drupal-%3E%3D8.0-yellow?style=plastic" /></a> 	
 </p>
 
 <h3 align="left">eCommerce:</h3>
