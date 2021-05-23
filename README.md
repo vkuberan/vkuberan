@@ -39,29 +39,28 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">CMS:</h3>
 
 <p>
-    <a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://img.shields.io/badge/WordPress-%3E%3D5.0-yellow?style=plastic" /></a> 	
-    <a href="https://www.drupal.org/" target="_blank"> <img src="https://img.shields.io/badge/Drupal-%3E%3D8.0-yellow?style=plastic" /></a> 	
+    <a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://img.shields.io/badge/WordPress-%3E%3D5.0-brightgreen?style=plastic" /></a> 	
+    <a href="https://www.drupal.org/" target="_blank"> <img src="https://img.shields.io/badge/Drupal-%3E%3D8.0-brightgreen?style=plastic" /></a> 	
 </p>
 
 <h3 align="left">eCommerce:</h3>
 
-<p>
-	<a href="https://woocommerce.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/woocommerce.svg" alt="django" width="50" height="50"/></a> 	
+<p>	
+    <a href="https://woocommerce.com/" target="_blank"> <img src="https://img.shields.io/badge/WooCommerce-%3E%3D3.0-brightgreen?style=plastic" /></a> 	
 </p>
 
 <h3 align="left">Database:</h3>
 
 <p>
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
+    <a href="https://mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-%3E%3D5.5-brightgreen?style=plastic" /></a> 	
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-%3E%3D10.0-brightgreen?style=plastic" /></a> 	
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Cloud:</h3>
 
 <p>
 	<a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-	<a href="https://www.linux.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-	<a href="https://www.mysql.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
 </p>
 
 
