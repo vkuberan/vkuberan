@@ -6,7 +6,7 @@
 Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
 
 <p>
-    - 💬 Ask me about **django, WordPress, laravel, VueJs & react**
+    - 💬 Ask me about **django, WordPress, laravel, VueJs & react**\
     - 📫 How to reach me **vkuberan@gmail.com**
 	
 </p>
