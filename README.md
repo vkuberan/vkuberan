@@ -32,7 +32,7 @@ Depending on the client’s needs, I usually play several different roles. I can
 	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-%3E%3D5.8-blue?style=plastic"/></a> 
 	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-%3E%3D3.0-blue?style=plastic" /></a> 
 	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK%20-2.0.1-blue"/></a> 
-	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VUE-%3E%3D2.0-blue?style=plastic"/></a> 		
+	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/REACT-%3E%3D16.0.0-blue?style=plastic"/></a> 		
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/REACT-%3E%3D16.0.0-blue?style=plastic"/></a> 		
 </p>	
 
