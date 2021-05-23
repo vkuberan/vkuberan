@@ -59,8 +59,8 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">Cloud:</h3>
 
 <p>
-	<a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+	<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a> 
+    <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a> 
 </p>
 
 
