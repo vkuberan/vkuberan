@@ -41,8 +41,8 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">CMS:</h3>
 
 <p>
-    <a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://img.shields.io/badge/WordPress-%3E%3D5.0-brightgreen?style=plastic" /></a> 	
-    <a href="https://www.drupal.org/" target="_blank"> <img src="https://img.shields.io/badge/Drupal-%3E%3D8.0-brightgreen?style=plastic" /></a> 	
+    <a href="https://profiles.wordpress.org/vkuberan/" target="_blank"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a> 	
+    <a href="https://www.drupal.org/" target="_blank"> <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" /></a> 	
 </p>
 
 <h3 align="left">eCommerce:</h3>
