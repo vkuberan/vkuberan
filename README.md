@@ -5,8 +5,8 @@
 <p>Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
 Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
 
-- 💬 Ask me about **django, laravel & react** 
-- 📫 Reach me @ **vkuberan@gmail.com** 
+  💬 Ask me about **django, WordPress, laravel, VueJS & react** 
+  📫 Reach me @ **vkuberan@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
