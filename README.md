@@ -65,11 +65,6 @@ Depending on the client’s needs, I usually play several different roles. I can
 </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkuberan" alt="vkuberan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vkuberan" target="blank"><img src="https://img.shields.io/twitter/follow/vkuberan?logo=twitter&style=for-the-badge" alt="vkuberan" /></a> </p>
-
 - 🔭 I’m currently working on [django](https://django.com)
 
 - 📝 I regulary write articles on [dev.to](dev.to)
@@ -79,8 +74,4 @@ Depending on the client’s needs, I usually play several different roles. I can
 - 📫 How to reach me **vkuberan@gmail.com**
 
 - 📄 Know about my experiences [vkuberan](vkuberan)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
