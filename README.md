@@ -65,14 +65,7 @@ Depending on the client’s needs, I usually play several different roles. I can
     <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a> 
 </p>
 
-
-- 🔭 I’m currently working on [django](https://django.com)
-
-- 📝 I regulary write articles on [dev.to](dev.to)
-
-- 💬 Ask me about **django, laravel & react**
+- 💬 Ask me about **django, WordPress, laravel, VueJs & react**
 
 - 📫 How to reach me **vkuberan@gmail.com**
-
-- 📄 Know about my experiences [vkuberan](vkuberan)
 
