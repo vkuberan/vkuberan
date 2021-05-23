@@ -21,9 +21,11 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-	<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-%3E%3D2.6-blue?style=for-the-badge" alt="python"/></a> 
-	<a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/php-%3E%3D5.6-blue?style=for-the-badge" /></a> 	
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-ES5%2C%20ES6-blue?style=for-the-badge" /></a> 
+	<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> 
+	<a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a> 	
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> 
+    <a href="https://html5.org/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> 
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> 
 	
 
 <h3 align="left">Frameworks:</h3>
