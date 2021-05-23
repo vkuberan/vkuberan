@@ -52,8 +52,8 @@ Depending on the client’s needs, I usually play several different roles. I can
 <h3 align="left">Database:</h3>
 
 <p>
-    <a href="https://mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-%3E%3D5.5-brightgreen?style=plastic" /></a> 	
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-%3E%3D10.0-brightgreen?style=plastic" /></a> 	
+    <a href="https://mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> 	
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a> 	
 </p>
 
 <h3 align="left">Cloud:</h3>
