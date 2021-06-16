@@ -2,8 +2,7 @@
 
 <img src="https://github.com/vkuberan/vkuberan/blob/master/images/github-profile.png" alt="Velmurugan Kuberan - Freelance Web Developer specialized in Django, Laravel, Wordpress and React plus a illustration of Velmurugan">
 
-<p>Over 11+ years of expertise in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product.
-Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture, quality assurance & deployment (DevOps).</p>
+<p>This is Velmurugan Kuberan. I am a Web Developer with more than 11+ years of Remote Working  experience in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product. Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture & deployment.</p>
 
  - 💬 Ask me about **django, WordPress, laravel, VueJS & react** 
  - 📫 Reach me @ **vkuberan@gmail.com** 
@@ -18,7 +17,6 @@ Depending on the client’s needs, I usually play several different roles. I can
 	<a href="https://codepen.io/vkuberan83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vkuberan" height="30" width="40" /></a>
 	<a href="https://twitter.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vkuberan" height="30" width="40" /></a>
 	<a href="https://fb.com/vkuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vkuberan" height="30" width="40" /></a>
-	<a href="https://codesandbox.com/velmurugan kuberan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="velmurugan kuberan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
