@@ -32,11 +32,9 @@
 <h3 align="left">Frameworks:</h3>
 
 <p align="left">
-	<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a> 
 	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" /></a> 
 	<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/></a> 
 	<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white"/></a> 		
-	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a> 		
 </p>	
 
 <h3 align="left">CMS:</h3>
