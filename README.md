@@ -4,7 +4,7 @@
 
 <p>This is Velmurugan Kuberan. I am a Web Developer with more than 11+ years of Remote Working  experience in building, delivering and maintaining small to medium scale web sites and API-driven applications, from the idea phase to all the way to the finished product. Depending on the client’s needs, I usually play several different roles. I can cover backend and frontend development, database architecture & deployment.</p>
 
- - 💬 Ask me about **django, WordPress, laravel, VueJS & react** 
+ - 💬 Well versed in *** Python, PHP, Wordpress, Django, Flask ** 
  - 📫 Reach me @ **vkuberan@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
